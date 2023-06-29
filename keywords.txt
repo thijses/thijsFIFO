@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For thijsFIFO
+#######################################
+# Class
+#######################################
+
+_FI		KEYWORD1
+FIFO	KEYWORD1
+FILO	KEYWORD1
+
+#######################################
+# Methods and Functions
+#######################################	
+
+put			KEYWORD2
+get			KEYWORD2
+
+#######################################
+# Constants
+#######################################
+
+_data		LITERAL1
+filled		LITERAL1
+available	LITERAL1
+_cursor		LITERAL1
+size		LITERAL1
+
